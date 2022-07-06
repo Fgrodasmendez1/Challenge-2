@@ -14,4 +14,5 @@ The picture is of my "About Me & Work" in my portfolio:
 The picture is of my "Contact Info" in my portfolio:
 ![Contact Info](Resources/Thirdphoto_SS.png)
 
-
+## Deployment URL
+https://fgrodasmendez1.github.io/Challenge-2/
